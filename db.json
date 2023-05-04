@@ -2,70 +2,81 @@
     "users": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "image": "https://static.india.com/wp-content/uploads/2018/08/camp.jpg",
+        "location": "Australia",
+        "title": "Camping",
+        "details": "Camping is an outdoor activity that involves staying the night/more than one night in a protective shelter out in nature. Camping is a broad term but in its essence, camping is a way of getting away from the hassle of urban life, to a more natural environment for a limited time."
       },
       {
         "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+        "image": "https://outravelandtour.com/wp-content/uploads/2021/01/Turkey_zbpapa.jpg",
+        "location": "India",
+        "title": "Balloon Ride",
+        "details": "Experience an ultimate hot air balloon rides in India with sunrise or sunset view of green landscape & feel the thrill of a lifetime"
       },
       {
         "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+        "image": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/3vm97zdqai806e6tetl6aalz61l5_1586163734_shutterstock_1191219970.jpg.png",
+        "location": "Dubai",
+        "title": "Parasailing",
+        "details": " is a recreational kiting activity where a person is towed behind a vehicle while attached to a specially designed canopy wing that resembles a parachute, known as a parasail wing . The manned kite's moving anchor may be a car, truck, or boat."
       },
       {
         "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+        "image": "https://i.pinimg.com/originals/a2/0f/e2/a20fe29b42d0de8806db0c6025b1433f.jpg",
+        "location": "Argentina",
+        "title": "Paragliding",
+        "details": "Paragliding a sport in which a wide canopy resembling a parachute is attached to a person's body by a harness in order to allow them to glide through the air after jumping from or being lifted to a height."
       },
       {
         "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
+        "image": "https://wallpaperaccess.com/full/1619284.jpg",
+        "location": "Thailand",
+        "title": "Rafting",
+        "details": "Rafting and whitewater rafting are recreational outdoor activities which use an inflatable raft to navigate a river or other body of water . This is often done on white water or different degrees of rough water."
       },
       {
         "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
+        "image": "https://pickyourtrail.com/blog/wp-content/uploads/2014/06/16.jpg",
+        "location": "New Zealand",
+        "title": "Trekking",
+        "details": "Trekking is an adventurous activity that allows you to explore the majestic beauty of the hills and mountains at your own pace ."
       },
       {
         "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
+        "image": "https://e0.pxfuel.com/wallpapers/480/363/desktop-wallpaper-bungee-jump-sports-hq-bungee-jump-bungee-jumping.jpg",
+        "location": "Portugal",
+        "title": "Bungee jumping",
+        "details": "Bungee jumping is an action-filled recreational activity that involves head-first jumping from a tall structure with an elastic cord attached to participants' feet . That tall structure can be a building, crane, bridge or even a helicopter."
       },
       {
         "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
+        "image": "https://media.istockphoto.com/id/498283106/photo/underwater-scuba-diver-explore-and-enjoy-coral-reef-sea-life.jpg?s=170667a&w=0&k=20&c=dcqiCu4QOmjfbXd4lPPuB47LIVIqYvIjJsDwIIZ1oio=",
+        "location": "Greece",
+        "title": "Scuba-Diving",
+        "details": "Scuba-Diving is a sport or activity in which you swim underwater using an air tank and a special breathing machine that you strap on your body."
       },
       {
         "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
+        "image": "https://images5.alphacoders.com/512/512811.jpg",
+        "location": "Brazil",
+        "title": "Skydiving",
+        "details": "Skydiving is a sport of jumping from an airplane and typically executing a prolonged free fall before deploying a parachute"
       },
       {
         "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
+        "image": "https://e0.pxfuel.com/wallpapers/480/363/desktop-wallpaper-bungee-jump-sports-hq-bungee-jump-bungee-jumping.jpg",
+        "location": "Italy",
+        "title": "Bungee jumping",
+        "details": "Bungee jumping is an action-filled recreational activity that involves head-first jumping from a tall structure with an elastic cord attached to participants' feet . That tall structure can be a building, crane, bridge or even a helicopter."
       },
 
       {
         "id": 11,
-        "name": "Masai School",
-        "age": 29,
-        "email": "masaisch@gmail.com"
+        "image": "https://images.unsplash.com/photo-1596473537047-50758f115d04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZG93bmhpbGwlMjBza2lpbmd8ZW58MHx8MHx8&w=1000&q=80",
+        "location": "Greenland",
+        "title": "Skiing",
+        "details": "Here all you have to do is skid on the snow while balancing your body. But, make sure you have proper gear and training available so as to avoid injuries. It is a winter sport with some spots in the world-famous for the experience."
       }
     ]
   }
