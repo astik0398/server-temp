@@ -17,7 +17,7 @@
       {
         "id": 3,
         "image": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/3vm97zdqai806e6tetl6aalz61l5_1586163734_shutterstock_1191219970.jpg.png",
-        "location": "Dubai",
+        "location": "Singapore",
         "title": "Parasailing",
         "details": " is a recreational kiting activity where a person is towed behind a vehicle while attached to a specially designed canopy wing that resembles a parachute, known as a parasail wing . The manned kite's moving anchor may be a car, truck, or boat."
       },
@@ -77,6 +77,179 @@
         "location": "Greenland",
         "title": "Skiing",
         "details": "Here all you have to do is skid on the snow while balancing your body. But, make sure you have proper gear and training available so as to avoid injuries. It is a winter sport with some spots in the world-famous for the experience."
+      },
+
+      {
+        "id": 12,
+        "image": "https://images.thrillophilia.com/image/upload/s--LmwfJr1d--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/138/348/original/1543301328_shutterstock_690320167.jpg.jpg?1543301328",
+        "location": "Costa Rica",
+        "title": "Zip-lining",
+        "details": "Though ziplining may seem a bit scary, it's not! Ziplines don't give you the same stomach-dropping feeling you experience on roller coasters. The motion is a gentle lateral movement, nothing erratic.",
+      },
+      {
+        "id": 13,
+        "image": "https://thecarvaanresort.com/wp-content/uploads/2022/07/2022-07-28-1024x666.png",
+        "location": "Morocco",
+        "title": "Camel Safari",
+        "details": "The thrill of riding a camel through the desert, the breathtaking views of sand dunes, and the rich culture of the Berber people make camel trekking in Morocco an unforgettable experience.",
+      },
+      {
+        "id": 14,
+        "image": "https://www.gore-tex.com/sites/default/files/blog_images/rock-climbing-san-francisco.jpg",
+        "location": "Japan",
+        "title": "Rock climbing",
+        "details": "Rock climbing is a sport in which participants climb up, across, or down natural rock formations.",
+      },
+      {
+        "id": 15,
+        "image": "https://i.pinimg.com/736x/fc/1f/b6/fc1fb69703c81912aca8295fc18da632--physical-activities-outdoor-activities.jpg",
+        "location": "Philippines",
+        "title": "Caving",
+        "details": "Caving, often also called spelunking, involves heading under the earth to walk, crawl, climb and even swim through wild cave systems.",
+      },
+      {
+        "id": 16,
+        "image": "https://www.tourmyindia.com/states/jammu-kashmir/image/bird-watching-kashmir3.jpg",
+        "location": "India",
+        "title": "Birdwatching",
+        "details": "Birdwatching, or birding, is the observing of birds, either as a recreational activity or as a form of citizen science.",
+      },
+
+      {
+        "id": 17,
+        "image": "https://www.oars.com/wp-content/uploads/2020/11/GC-110220-2.jpg",
+        "location": "Brazil",
+        "title": "Rafting",
+        "details": "Rafting and whitewater rafting are recreational outdoor activities which use an inflatable raft to navigate a river or other body of water . This is often done on white water or different degrees of rough water."
+      },
+      {
+        "id": 18,
+        "image": "https://www.kosha.co/journal/wp-content/uploads/2022/05/Trekking-Tips-1.jpg",
+        "location": "Italy",
+        "title": "Trekking",
+        "details": "Trekking is an adventurous activity that allows you to explore the majestic beauty of the hills and mountains at your own pace ."
+      },
+      {
+        "id": 19,
+        "image": "https://assets.visitorscoverage.com/production/wp-content/uploads/2021/05/bungee-jumping.jpg",
+        "location": "Mexico",
+        "title": "Bungee jumping",
+        "details": "Bungee jumping is an action-filled recreational activity that involves head-first jumping from a tall structure with an elastic cord attached to participants' feet . That tall structure can be a building, crane, bridge or even a helicopter."
+      },
+      {
+        "id": 20,
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/c1/2f/53.jpg",
+        "location": "Argentina",
+        "title": "Scuba-Diving",
+        "details": "Scuba-Diving is a sport or activity in which you swim underwater using an air tank and a special breathing machine that you strap on your body."
+      },
+
+      {
+        "id": 21,
+        "image": "https://res.cloudinary.com/simpleview/image/upload/v1612993307/clients/texas/03_TX_MustangIsland_Horizontal_5479and5431th_2_RGB_461a6777-3285-46f3-b8c6-174d4e8ac4a1.jpg",
+        "location": "India",
+        "title": "Camping",
+        "details": "Camping is an outdoor activity that involves staying the night/more than one night in a protective shelter out in nature. Camping is a broad term but in its essence, camping is a way of getting away from the hassle of urban life, to a more natural environment for a limited time."
+      },
+      {
+        "id": 22,
+        "image": "https://images.thrillophilia.com/image/upload/s--zukjwDMh--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/192/942/original/1582184016_1582105510_shutterstock_317933099.jpg.jpg.jpg?1582184016",
+        "location": "UAE",
+        "title": "Balloon Ride",
+        "details": "Experience an ultimate hot air balloon rides in India with sunrise or sunset view of green landscape & feel the thrill of a lifetime"
+      },
+      {
+        "id": 23,
+        "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/medium-desktop/para-sailing-1656590693_27a95b09370522046943.webp",
+        "location": "Singapore",
+        "title": "Parasailing",
+        "details": " is a recreational kiting activity where a person is towed behind a vehicle while attached to a specially designed canopy wing that resembles a parachute, known as a parasail wing . The manned kite's moving anchor may be a car, truck, or boat."
+      },
+      {
+        "id": 24,
+        "image": "https://static.toiimg.com/thumb/66344354.cms?resizemode=75&width=1200&height=900",
+        "location": "Indonesia",
+        "title": "Paragliding",
+        "details": "Paragliding a sport in which a wide canopy resembling a parachute is attached to a person's body by a harness in order to allow them to glide through the air after jumping from or being lifted to a height."
+      },
+      {
+        "id": 25,
+        "image": "https://www.raindropsresorts.com/blog/wp-content/uploads/2019/09/river-rafting-in-wayanad-1024x577.jpg",
+        "location": "Egypt",
+        "title": "Rafting",
+        "details": "Rafting and whitewater rafting are recreational outdoor activities which use an inflatable raft to navigate a river or other body of water . This is often done on white water or different degrees of rough water."
+      },
+
+      {
+        "id": 26,
+        "image": "https://images.thrillophilia.com/image/upload/s--LmwfJr1d--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/138/348/original/1543301328_shutterstock_690320167.jpg.jpg?1543301328",
+        "location": "India",
+        "title": "Zip-lining",
+        "details": "Though ziplining may seem a bit scary, it's not! Ziplines don't give you the same stomach-dropping feeling you experience on roller coasters. The motion is a gentle lateral movement, nothing erratic.",
+      },
+      {
+        "id": 27,
+        "image": "https://indiathrills.com/wp-content/uploads/2020/07/Camel-Safari-In-Rajasthan-1280.jpg",
+        "location": "India",
+        "title": "Camel Safari",
+        "details": "The thrill of riding a camel through the desert, the breathtaking views of sand dunes, and the rich culture of the Berber people make camel trekking in Morocco an unforgettable experience.",
+      },
+      {
+        "id": 28,
+        "image": "https://u7q2x7c9.stackpathcdn.com/photos/15/81/279616_31646_XL.jpg",
+        "location": "Philippines",
+        "title": "Rock climbing",
+        "details": "Rock climbing is a sport in which participants climb up, across, or down natural rock formations.",
+      },
+      {
+        "id": 29,
+        "image": "https://caveofthewinds.com/wp-content/uploads/2020/02/Caving-101_12-15_moody-light-stlagtight-group_062-768x512.jpg",
+        "location": "Spain",
+        "title": "Caving",
+        "details": "Caving, often also called spelunking, involves heading under the earth to walk, crawl, climb and even swim through wild cave systems.",
+      },
+      {
+        "id": 30,
+        "image": "https://blog.ijugaad.com/wp-content/uploads/2017/06/birdwatching-1.jpg",
+        "location": "Australia",
+        "title": "Birdwatching",
+        "details": "Birdwatching, or birding, is the observing of birds, either as a recreational activity or as a form of citizen science.",
+      },
+
+      {
+        "id": 31,
+        "image": "https://curlytales.com/wp-content/uploads/2021/11/Camping-1170x614.jpg",
+        "location": "Australia",
+        "title": "Camping",
+        "details": "Camping is an outdoor activity that involves staying the night/more than one night in a protective shelter out in nature. Camping is a broad term but in its essence, camping is a way of getting away from the hassle of urban life, to a more natural environment for a limited time."
+      },
+      {
+        "id": 32,
+        "image": "https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/Hot-Air-Balloon-Rides-in-Dubai-Cover-18-05.jpg",
+        "location": "Philippines",
+        "title": "Balloon Ride",
+        "details": "Experience an ultimate hot air balloon rides in India with sunrise or sunset view of green landscape & feel the thrill of a lifetime"
+      },
+      {
+        "id": 33,
+        "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_3000,h_2000,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ukkfqv0xsmcrjjt7fdvx/ParasailingExperienceTicketinGoldCoast-KlookIndia.jpg",
+        "location": "UAE",
+        "title": "Parasailing",
+        "details": " is a recreational kiting activity where a person is towed behind a vehicle while attached to a specially designed canopy wing that resembles a parachute, known as a parasail wing . The manned kite's moving anchor may be a car, truck, or boat."
+      },
+      {
+        "id": 34,
+        "image": "https://static.toiimg.com/thumb/60763742/Paragliding.jpg?width=1200&height=900",
+        "location": "Spain",
+        "title": "Paragliding",
+        "details": "Paragliding a sport in which a wide canopy resembling a parachute is attached to a person's body by a harness in order to allow them to glide through the air after jumping from or being lifted to a height."
+      },
+      {
+        "id": 35,
+        "image": "https://www.raindropsresorts.com/blog/wp-content/uploads/2019/09/river-rafting-in-wayanad-1024x577.jpg",
+        "location": "India",
+        "title": "Rafting",
+        "details": "Rafting and whitewater rafting are recreational outdoor activities which use an inflatable raft to navigate a river or other body of water . This is often done on white water or different degrees of rough water."
       }
     ]
   }
